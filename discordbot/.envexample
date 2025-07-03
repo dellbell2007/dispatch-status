@@ -1,0 +1,9 @@
+DISCORD_TOKEN=YourBotTokenGoesHere
+CLIENT_ID=YourBotClientIDGoesHere
+GUILD_ID=YourDiscordServerIDGoesHere
+
+URL to your FiveM server, including the port you opened
+FIVEM_SERVER_URL=http://123.45.67.89:30125
+
+# The SAME secret key you put in server.lua
+FIVEM_SECRET_KEY=change-this-to-a-very-secret-key
